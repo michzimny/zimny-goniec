@@ -1,0 +1,9 @@
+
+*.class
+*.zip
+*.log
+*.log.*
+log/
+.*
+!.gitignore
+target/

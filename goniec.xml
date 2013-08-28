@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="local.port">8091</entry>
+<entry key="ftp.host">example.com</entry>
+<entry key="ftp.port">21</entry>
+<entry key="ftp.username">ftpuser</entry>
+<entry key="ftp.password">ftppass</entry>
+<entry key="ftp.directory">/</entry>
+</properties>
